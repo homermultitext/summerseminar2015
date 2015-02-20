@@ -1,0 +1,33 @@
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            CHS summer seminar 2015
+tagline:          'Introduction to the Homer Multitext project'
+description:      ''
+baseurl: '/summerseminar2015/'
+
+
+
+author:
+  name:           'Neel Smith'
+ 
+paginate:         5
+
+links:
+  - title: HMT home page
+    url: http://www.homermultitext.org/
+    external: true
+  - title: HMT on github
+    url: http://homermultitext.github.io/
+    external: true
+  - title: HMT editors' group
+    url: http://hmteditors.github.io/
+    external: true
+
+
+   
