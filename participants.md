@@ -9,7 +9,7 @@ Current list of confirmed participants:
 - Brandeis University:  Adam Beckwith, Savannah Bishop, Lenny Muellner
 - Furman University: Christopher Blackwell, Elias Eells, Janey Capers Newland
 - Gustavus Adolphus College: Jennifer Facendola, Ashley Nickel
-- College of the Holy Cross:  Mary Ebbott, Michael Kelley, Corey Scanlon, Neel Smith
+- College of the Holy Cross:  Mary Ebbott, Michael Kelley, Corey Scannell, Neel Smith
 - University of Houston:  Casey Dué
 - Universiteit Leiden: Ineke Sluiter, Tazuko van Berkel,  Maike van Haeringen, Thom van Leuveren
 - Trinity University:  Grace Anthony,  Michaela Knipp, Corinne Pache
