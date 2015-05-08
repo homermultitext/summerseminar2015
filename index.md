@@ -12,6 +12,7 @@ Fuller initial information about the seminar will be posted here in late Februar
 - [Overview of the seminar](overview)
 - [Preparation prior to coming to CHS](prep)
 - [Travel to CHS](travel)
+- Confirmed [participants](participants)
 - Short youtube videos from the Getty Museum:
     - The [structure of a medieval manuscript][v1] 
     - [Making manuscripts][v2]
