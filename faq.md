@@ -7,7 +7,7 @@ layout: page
 
 >**Q**: How do I open the Image Citation Tool with the right image for a folio I want to edit?
 
-**A**: Look up  material by URN (e.g., from [HMT test site](http://beta.hpcc.uh.edu/tomcat/hmt-digital/svcforms)), and use the URN of your folio to find links to it.  Beneath the largest (default) image, follow the link to "cite image".
+**A**: Look up  material by URN (e.g., from [HMT test site](http://www.homermultitext.org/hmt-digital/svcforms)), and use the URN of your folio to find links to it.  Beneath the largest (default) image, follow the link to "cite image".
 
 
 >**Q**: What does the CITE URN for a folio of the Venetus A look like?
