@@ -20,6 +20,8 @@ author:
 paginate:         5
 
 links:
+  - title: Seminar schedule
+    url: /schedule
   - title: HMT home page
     url: http://www.homermultitext.org/
     external: true
