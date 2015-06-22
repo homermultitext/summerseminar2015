@@ -5,9 +5,12 @@ title: "CHS summer seminar, 2015"
 
 This year's summer seminar, "Introduction to the Homer Multitext project" will run from Monday, June 22, to Friday, July 3.  
 
+- [Team assignments](offices)
+- Schedule
+
+
 ## Background ##
 
-Fuller initial information about the seminar will be posted here in late February. Here is a little bit of initial background.
 
 - [Overview of the seminar](overview)
 - [Preparation prior to coming to CHS](prep)
@@ -25,6 +28,8 @@ Fuller initial information about the seminar will be posted here in late Februar
 
 ## Reference material for work at CHS ##
 
+
+- Homer Multitext project [technical documentation](http://homermultitext.github.io/hmt-docs/)
 - [Tips](tips)
 - [Frequently asked questions](faq)
 
