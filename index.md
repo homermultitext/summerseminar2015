@@ -9,6 +9,13 @@ This year's summer seminar, "Introduction to the Homer Multitext project" will r
 - [Schedule](schedule)
 
 
+## Reference material for work at CHS ##
+
+
+- Homer Multitext project [technical documentation](http://homermultitext.github.io/hmt-docs/)
+- [Frequently asked questions](faq)
+
+
 ## Background ##
 
 
@@ -26,11 +33,6 @@ This year's summer seminar, "Introduction to the Homer Multitext project" will r
 
 [v2]: https://www.youtube.com/watch?v=1aDHJu9J10o&list=PLA024C97274BEF01F&index=2
 
-## Reference material for work at CHS ##
 
-
-- Homer Multitext project [technical documentation](http://homermultitext.github.io/hmt-docs/)
-- [Tips](tips)
-- [Frequently asked questions](faq)
 
 
