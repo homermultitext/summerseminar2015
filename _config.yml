@@ -22,6 +22,9 @@ paginate:         5
 links:
   - title: Seminar schedule
     url: /schedule
+  - title: HMT technical documentation
+    url: http://homermultitext.github.io/hmt-docs
+    external: true
   - title: HMT home page
     url: http://www.homermultitext.org/
     external: true
