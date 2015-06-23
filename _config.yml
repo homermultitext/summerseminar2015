@@ -25,6 +25,9 @@ links:
   - title: HMT technical documentation
     url: http://homermultitext.github.io/hmt-docs
     external: true
+  - title: HMT digital
+    url: http://www.homermultitext.org/hmt-digital
+    external: true
   - title: HMT home page
     url: http://www.homermultitext.org/
     external: true
