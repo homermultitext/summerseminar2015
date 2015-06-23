@@ -20,9 +20,6 @@ Even more remarkably, most of the shell commands you regularly use are identical
 These brief notes will show you a few shell commands you can use to interact with a POSIX-compiliant system, whether you are using a terminal application on your own computer, connecting to a remote machine using the secure shell program `ssh`, or running a virtual machine.  Explore on your own, and let Google help you when you need more information.
 
 
-[1]: http://cm.bell-labs.com/cm/cs/who/dmr/kd14.jpg
-
-[2]: http://shot.holycross.edu/bashdroid.jpg
 
 
 
@@ -146,6 +143,14 @@ Try using combinations of commands you've learned to answer each of the followin
 - on most terminals, use  up and down arrows to back or forward through your command history
 - repeat a command using the exclamation point.  `!!` repeats the previous command;  `!` before a number repeats that numbered command (using the number seen in `history`).
 -  substitute part of the preceding command string using the caret (^).  If you mistakenly entered `hisstory`, you could correct that by entering `^ss^s`, that is, "replace 'ss' with 's'".
+
+
+
+[1]:  http://shot.holycross.edu/ken-and-den.jpg
+
+
+
+[2]: http://shot.holycross.edu/bashdroid.jpg
 
 [3]: vagrant.html
 
