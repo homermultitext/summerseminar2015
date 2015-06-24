@@ -14,6 +14,7 @@ This year's summer seminar, "Introduction to the Homer Multitext project" will r
 ## Reference material for work at CHS ##
 
 
+- Homer Multitext project [guide for editors](http://homermultitext.github.io/hmt-editors-guide/editorial-policies/)
 - Homer Multitext project [technical documentation](http://homermultitext.github.io/hmt-docs/)
 - [HMT digital](http://www.homermultitext.org/hmt-digital/)
 - [Frequently asked questions](faq)
