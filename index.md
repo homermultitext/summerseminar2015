@@ -15,6 +15,10 @@ This year's summer seminar, "Introduction to the Homer Multitext project" will r
 
 
 - Homer Multitext project [guide for editors](http://homermultitext.github.io/hmt-editors-guide/editorial-policies/)
+- Authority lists for [personal and place names](https://github.com/homermultitext/hmt-authlists)
+- Issue trackers while validating:
+    - [byzantine orthographic forms](https://github.com/homermultitext/byzortho/issues)
+    -  lexical tokens with [alternate modern orthography](https://github.com/homermultitext/lexmapping/issues) (such as case)
 - Homer Multitext project [technical documentation](http://homermultitext.github.io/hmt-docs/)
 - [HMT digital](http://www.homermultitext.org/hmt-digital/)
 - [Frequently asked questions](faq)
