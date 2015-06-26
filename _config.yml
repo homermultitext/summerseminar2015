@@ -22,9 +22,8 @@ paginate:         5
 links:
   - title: Seminar schedule
     url: /schedule
-  - title: HMT technical documentation
-    url: http://homermultitext.github.io/hmt-docs
-    external: true
+  - title: Reference material for editors
+    url: references
   - title: HMT digital
     url: http://www.homermultitext.org/hmt-digital
     external: true
