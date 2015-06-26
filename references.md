@@ -17,8 +17,7 @@ title: Reference material for editorial work
 - Public-domain PDFs of 2-volume edition of Venetus A scholia by Dindorf:
     - [volume 1](http://www.homermultitext.org/pd-pdfs/Dindorfius1875a.pdf) (important preface, and main scholia to *Iliad* 1-12)
     - [volume 2](http://www.homermultitext.org/pd-pdfs/Dindorfius1875b.pdf) (main scholia to *Iiad* 13-24;  all interlinear scholia, beginning p. 308;  list of all *lemmata* beginning on p. 354; addenda and corrigenda beginning on p. 384)
-
-
+- Brief guide to the [paleography of the Venetus A manuscript](../palguide.pdf)
 
 
 
