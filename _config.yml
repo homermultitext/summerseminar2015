@@ -1,6 +1,8 @@
 # Dependencies
-#markdown:         redcarpet
-markdown:         kramdown
+markdown:         redcarpet
+redcarpet:
+ extensions: ["fenced_code_blocks", "autolink", "tables"]
+#markdown:         kramdown
 pygments:         true
 
 # Permalinks
